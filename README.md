@@ -24,7 +24,7 @@ Installation
 Clone the repository:
 
 
-git clone https://github.com/yourusername/coffee-shop-landing-page.git
+git clone https://github.com/LifelongLlearner/SCT_WD_1.git
 Navigate to the project directory:
 
 
